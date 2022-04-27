@@ -1,8 +1,8 @@
 # **🔥 𝗧𝗵𝗲 ANDREA YT - 𝗕𝗼𝘁 🔥**
 ### `NECESITAS AYUDA?, CONTACTAME`
-<a href="http://wa.me/573125484672" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/573125484672" target="blank"><img src="https://img.shields.io/badge/ANDREA_YT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 >
-"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
+
 
 ### `INSTALACION TERMUX`
 ```bash
