@@ -52,7 +52,6 @@ excesivamente lento (depende del WhatsApp igual)
 * [Opción 4 - WhatsApp Recomendado](https://www.mediafire.com/file/pxfksca3yatav5f/%25E0%25A6%2594%25E0%25A7%25A3%25CD%25A1%25CD%259C%25E2%258D%25A3%25E2%2582%25AE%25C9%2584%25C9%258C%25C9%2583%25C3%2598%25E0%25AF%2580%25CD%259C%25E2%2582%25A6%25C6%2597%25E2%2582%25AE%25C9%258C%25C3%2598%25E2%259E%25A3%25E2%259C%25AA_%25E2%25A9%2594-7.apk/file).
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![ANDREA YT](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://avatars.githubusercontent.com/u/90165013?s=400&u=cdf7fd989e2a787c9f400545147865615c336002&v=4) 
-```bash
+[![ANDREA YT](
 `The ANDREA BOT - Bot ___ By ANDREA ` 
 ```
