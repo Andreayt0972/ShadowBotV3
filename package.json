@@ -1,7 +1,7 @@
 {
-  "name": "ShadowBotV3",
+  "name": "ANDREQBotV3",
   "version": "10.8.9",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
+  "description": "Subscribete a ANDREA - Bot OFC (≧▽≦)",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -24,8 +24,8 @@
     "wabot-aq"
   ],
   "homepage": "https://github.com/BochilGaming/games-wabot",
-  "author": {
-    "name": "BochilGaming"
+  "author": {ANDREA YT
+    "name": "ANDREA BOT"
   },
   "repository": {
     "type": "git",
