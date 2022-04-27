@@ -9,7 +9,7 @@ CFonts.say('The Shadow\nBrokers\nBot', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Subscribete a The Shadow Brokers - Bot\n\nBot creado por Bruno Sobrino`, {
+CFonts.say(`Subscribete a https://youtube.com/channel/UCiYQ8faKdTAxsMg6JS-vT6g  - Bot\n\nBot creado por ANDREA`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
