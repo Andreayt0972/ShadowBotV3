@@ -21,8 +21,9 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del bot * ANDREA YT
 ║➤ *Numero del creador:* 573125484672 (No Bot)*
-║➤ 
+║➤ https://chat.whatsapp.com/IYl8F2b6XIh1YIZmO0w0va
 ║➤ *Numero del Bot oficial:* *wa.me/573125484672*
+https://chat.whatsapp.com/IYl8F2b6XIh1YIZmO0w0va
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
@@ -261,6 +262,7 @@ let menu =`
 ┣ ඬ⃟🎤 _${usedPrefix}smooth_
 ┣ ඬ⃟🎤 _${usedPrefix}vibracion *cantidad*_
 ┗━━━━━━━━━━━━━┛
+
 ┏━━━━━━━━━━━━━┓
 ┃ *<AUDIOS/>* 
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
