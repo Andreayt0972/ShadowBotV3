@@ -15,14 +15,14 @@ let username = conn.getName(who)
 //let vn = './media/mariana.mp3'
 let menu =`
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
-║═ *𝐓𝐡𝐞 𝐒𝐡𝐚𝐝𝐨𝐰 𝐁𝐫𝐨𝐤𝐞𝐫𝐬 - 𝐁𝐨𝐭*
+║═ * ANDREA  - 𝐁𝐨𝐭*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: Bruno Sobrino* 
-║➤ *Numero del creador:* *wa.me/5219992095479 (No Bot)*
-║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
-║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
+║➤ *Creador del bot * ANDREA YT
+║➤ *Numero del creador:* 573125484672 (No Bot)*
+║➤ 
+║➤ *Numero del Bot oficial:* *wa.me/573125484672*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
